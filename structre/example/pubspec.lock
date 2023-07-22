@@ -5,7 +5,8 @@ packages:
     dependency: transitive
     description:
       name: clock
-      url: "https://pub.dartlang.org"
+      sha256: "6021e0172ab6e6eaa1d391afed0a99353921f00c54385c574dc53e55d67c092c"
+      url: "https://pub.dev"
     source: hosted
     version: "1.1.0"
   cupertino_calendar_structre:
@@ -14,41 +15,55 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "1.0.0-beta-1+1"
+    version: "1.1.2"
   intl:
     dependency: transitive
     description:
       name: intl
-      url: "https://pub.dartlang.org"
+      sha256: "3bc132a9dbce73a7e4a21a17d06e1878839ffbf975568bc875c60537824b0c4d"
+      url: "https://pub.dev"
     source: hosted
-    version: "0.17.0"
+    version: "0.18.1"
   matcher:
     dependency: transitive
     description:
       name: matcher
-      url: "https://pub.dartlang.org"
+      sha256: "2e2c34e631f93410daa3ee3410250eadc77ac6befc02a040eda8a123f34e6f5a"
+      url: "https://pub.dev"
     source: hosted
     version: "0.12.11"
+  meta:
+    dependency: transitive
+    description:
+      name: meta
+      sha256: "3c74dbf8763d36539f114c799d8a2d87343b5067e9d796ca22b5eb8437090ee3"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.9.1"
   path:
     dependency: transitive
     description:
       name: path
-      url: "https://pub.dartlang.org"
+      sha256: "2ad4cddff7f5cc0e2d13069f2a3f7a73ca18f66abd6f5ecf215219cdb3638edb"
+      url: "https://pub.dev"
     source: hosted
     version: "1.8.0"
   quiver:
     dependency: transitive
     description:
       name: quiver
-      url: "https://pub.dartlang.org"
+      sha256: b1c1ac5ce6688d77f65f3375a9abb9319b3cb32486bdc7a1e0fdf004d7ba4e47
+      url: "https://pub.dev"
     source: hosted
-    version: "3.0.1"
+    version: "3.2.1"
   stack_trace:
     dependency: transitive
     description:
       name: stack_trace
-      url: "https://pub.dartlang.org"
+      sha256: f8d9f247e2f9f90e32d1495ff32dac7e4ae34ffa7194c5ff8fcc0fd0e52df774
+      url: "https://pub.dev"
     source: hosted
     version: "1.10.0"
 sdks:
-  dart: ">=2.13.0 <3.0.0"
+  dart: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
