@@ -1,4 +1,3 @@
-import 'package:cupertino_calendar_date_reminds_view/src/widgets.dart';
 import 'package:cupertino_calendar_structre/structre.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_test/flutter_test.dart';
