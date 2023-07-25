@@ -12,9 +12,15 @@ dependencies:
     sdk: flutter
   intl: ^0.18.0
   cupertino_calendar_structre:
-    path: ../structre
+    git:
+      url: https://github.com/LahaLuhem/cupertino_calendar
+      path: structre/
   cupertino_calendar_month_view:
-    path: ../month_view
+    git:
+      url: https://github.com/LahaLuhem/cupertino_calendar
+      path: month_view/
   cupertino_calendar_date_reminds_view:
-    path: ../date_reminds_view
+    git:
+      url: https://github.com/LahaLuhem/cupertino_calendar
+      path: date_reminds_view/
 flutter:

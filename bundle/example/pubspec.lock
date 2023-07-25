@@ -51,27 +51,24 @@ packages:
   cupertino_calendar_date_reminds_view:
     dependency: transitive
     description:
-      name: cupertino_calendar_date_reminds_view
-      sha256: b69f8f476a550b2706b8bb5a26f7c99cfa6a2a22340524a36443e3b5eb9e9663
-      url: "https://pub.dev"
-    source: hosted
+      path: "../../date_reminds_view"
+      relative: true
+    source: path
     version: "1.0.3"
   cupertino_calendar_month_view:
     dependency: transitive
     description:
-      name: cupertino_calendar_month_view
-      sha256: "3f7fcddbc5b4c8ea49924b23f466b34c1bf5cf78bdb8056b0227e864231acbb1"
-      url: "https://pub.dev"
-    source: hosted
+      path: "../../month_view"
+      relative: true
+    source: path
     version: "1.0.2"
   cupertino_calendar_structre:
     dependency: transitive
     description:
-      name: cupertino_calendar_structre
-      sha256: a2712097b8053a26d2d215c9d7af952ca49f854b2225de1e07a4083c48258d0e
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.1"
+      path: "../../structre"
+      relative: true
+    source: path
+    version: "1.1.2"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -102,10 +99,10 @@ packages:
     dependency: transitive
     description:
       name: intl
-      sha256: "910f85bce16fb5c6f614e117efa303e85a1731bb0081edf3604a2ae6e9a3cc91"
+      sha256: "3bc132a9dbce73a7e4a21a17d06e1878839ffbf975568bc875c60537824b0c4d"
       url: "https://pub.dev"
     source: hosted
-    version: "0.17.0"
+    version: "0.18.1"
   js:
     dependency: transitive
     description:
@@ -150,10 +147,10 @@ packages:
     dependency: transitive
     description:
       name: quiver
-      sha256: "616b691d1c8f5c53b7b39ce3542f6a25308d7900bf689d0210e72a644a10387e"
+      sha256: b1c1ac5ce6688d77f65f3375a9abb9319b3cb32486bdc7a1e0fdf004d7ba4e47
       url: "https://pub.dev"
     source: hosted
-    version: "3.0.1+1"
+    version: "3.2.1"
   sky_engine:
     dependency: transitive
     description: flutter
