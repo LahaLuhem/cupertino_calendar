@@ -10,7 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_calendar_structre: ^1.1.1
+  cupertino_calendar_structre:
+    path: ../structre
 dev_dependencies:
   flutter_test:
     sdk: flutter
